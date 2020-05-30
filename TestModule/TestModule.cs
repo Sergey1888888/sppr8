@@ -18,7 +18,6 @@ namespace TestModule
         bool checkGenOspa = true;
         bool checkGenAnim = true;
         bool checkGenUniv = true;
-        bool allGood = false;
         protected override void Initialize()
         {
             //Добавление созданных объектов в общий список, доступный всем модулям. Объекты из данного списка отображаются на карте. 
@@ -34,6 +33,7 @@ namespace TestModule
         }
         public override void Update(long elapsedMilliseconds)
         {
+            int check = 0;
             for (int i = 0; i < MapObjects.GetAll<VitalFunctions>().Count; i++)
             {
                 if (ospa.generate(MapObjects.GetAll<VitalFunctions>()[i]) == -1 && checkGenOspa)
@@ -204,13 +204,13 @@ namespace TestModule
                         Console.WriteLine(person + " болен " + person.infectionName + " и имеет " + person.health + " здоровья");
                 }
             }
-            foreach (var person in MapObjects.GetAll<VitalFunctions>())
+            for (int i = 0; i < MapObjects.GetAll<VitalFunctions>().Count; i++)
             {
-                if (person.infected)
+                if (!MapObjects.GetAll<VitalFunctions>()[i].infected)
                 {
-                    allGood = false;
+                    check++;
                 }
-                if (allGood)
+                if (check == 7)
                 {
                     Console.WriteLine("Все вылечились!");
                 }
