@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\bin\Debug\netcoreapp2.1\TestModule.deps.json
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\bin\Debug\netcoreapp2.1\TestModule.dll
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\bin\Debug\netcoreapp2.1\TestModule.pdb
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\bin\Debug\netcoreapp2.1\OSMLSGlobalLibrary.dll
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\bin\Debug\netcoreapp2.1\OSMLSGlobalLibrary.pdb
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\obj\Debug\netcoreapp2.1\TestModule.csprojAssemblyReference.cache
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\obj\Debug\netcoreapp2.1\TestModule.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\obj\Debug\netcoreapp2.1\TestModule.AssemblyInfo.cs
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\obj\Debug\netcoreapp2.1\TestModule.csproj.CopyComplete
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\obj\Debug\netcoreapp2.1\TestModule.dll
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\obj\Debug\netcoreapp2.1\TestModule.pdb
+C:\Users\User\Desktop\6 семестр\СППР\SPPR_34lab\lab3vs\TestModule\TestModule\bin\Debug\netcoreapp2.1\TestModule.deps.json
+C:\Users\User\Desktop\6 семестр\СППР\SPPR_34lab\lab3vs\TestModule\TestModule\bin\Debug\netcoreapp2.1\TestModule.dll
+C:\Users\User\Desktop\6 семестр\СППР\SPPR_34lab\lab3vs\TestModule\TestModule\bin\Debug\netcoreapp2.1\TestModule.pdb
+C:\Users\User\Desktop\6 семестр\СППР\SPPR_34lab\lab3vs\TestModule\TestModule\bin\Debug\netcoreapp2.1\OSMLSGlobalLibrary.dll
+C:\Users\User\Desktop\6 семестр\СППР\SPPR_34lab\lab3vs\TestModule\TestModule\bin\Debug\netcoreapp2.1\OSMLSGlobalLibrary.pdb
+C:\Users\User\Desktop\6 семестр\СППР\SPPR_34lab\lab3vs\TestModule\TestModule\obj\Debug\netcoreapp2.1\TestModule.csprojAssemblyReference.cache
+C:\Users\User\Desktop\6 семестр\СППР\SPPR_34lab\lab3vs\TestModule\TestModule\obj\Debug\netcoreapp2.1\TestModule.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\6 семестр\СППР\SPPR_34lab\lab3vs\TestModule\TestModule\obj\Debug\netcoreapp2.1\TestModule.AssemblyInfo.cs
+C:\Users\User\Desktop\6 семестр\СППР\SPPR_34lab\lab3vs\TestModule\TestModule\obj\Debug\netcoreapp2.1\TestModule.csproj.CopyComplete
+C:\Users\User\Desktop\6 семестр\СППР\SPPR_34lab\lab3vs\TestModule\TestModule\obj\Debug\netcoreapp2.1\TestModule.dll
+C:\Users\User\Desktop\6 семестр\СППР\SPPR_34lab\lab3vs\TestModule\TestModule\obj\Debug\netcoreapp2.1\TestModule.pdb

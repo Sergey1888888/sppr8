@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\bin\Debug\netcoreapp3.0\TestModule.deps.json
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\bin\Debug\netcoreapp3.0\TestModule.dll
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\bin\Debug\netcoreapp3.0\OSMLSGlobalLibrary.dll
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\bin\Debug\netcoreapp3.0\OSMLSGlobalLibrary.pdb
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\obj\Debug\netcoreapp3.0\TestModule.csprojAssemblyReference.cache
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\obj\Debug\netcoreapp3.0\TestModule.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\obj\Debug\netcoreapp3.0\TestModule.AssemblyInfo.cs
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\obj\Debug\netcoreapp3.0\TestModule.csproj.CopyComplete
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\bin\Debug\netcoreapp3.0\TestModule.pdb
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\obj\Debug\netcoreapp3.0\TestModule.dll
+C:\Users\User\Desktop\lab3vs\TestModule\TestModule\obj\Debug\netcoreapp3.0\TestModule.pdb
